@@ -11,7 +11,7 @@
 ## Introduction
 - **Tic Tac Toe is a game for two players, usually X and O, who take turns marking the spaces in a 3×3 grid. The player who places three of their marks in a horizontal, vertical, or diagonal row wins the game. If all nine squares are filled and neither player has three marks in a row, the game is a tie.**
 
-## How to Play:
+# How to Play:
 - ### Player Symbols: At the start, Player 1 chooses their symbol (X or O). Player 2 automatically gets the other symbol.
 - ### Taking Turns: Players take turns to pick a row and a column to place their symbol.
 - ### Winning the Game: The first player to align three of their symbols horizontally, vertically, or diagonally wins the game.
